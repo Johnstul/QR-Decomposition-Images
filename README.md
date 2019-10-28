@@ -10,7 +10,7 @@ on the Nbviewer Online page to view the notebooks:
 
 https://nbviewer.jupyter.org/
 
-Or just copy and paste the links below into the box on the Nbviewer Online page
+Or just copy and paste the links below into the box on the Nbviewer Online page:
 
 Notebook links:
 https://github.com/Johnstul/QR-Decomposition-Images/blob/master/Diagonal_QR_Increment_Code_1a.ipynb
