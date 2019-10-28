@@ -1,5 +1,7 @@
 # QR-Decomposition-Images
-Applying Linear Algebra QR Decomposition to image matrices
+## Applying Linear Algebra QR Decomposition to image matrices
+
+## Python code created by Debananda Chakraborty and John Stulich
 
 If the Jupyter notebooks are unable to load online (they are still downloadable) due to a possible sourcing issue,
 
