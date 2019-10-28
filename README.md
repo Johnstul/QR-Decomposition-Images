@@ -14,4 +14,5 @@ Or just copy and paste the links below into the box on the Nbviewer Online page
 
 Notebook links:
 https://github.com/Johnstul/QR-Decomposition-Images/blob/master/Diagonal_QR_Increment_Code_1a.ipynb
+
 https://github.com/Johnstul/QR-Decomposition-Images/blob/master/QR_Image_Process_Color_Code_1a.ipynb
